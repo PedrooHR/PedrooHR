@@ -30,7 +30,7 @@ I also had some experience (not proefficient) with: <br>
 ![R](https://img.shields.io/badge/-R-333333?style=flat-square&logo=r)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![Node JS](https://img.shields.io/badge/-Node%20JS-333333?style=flat-square&logo=nodedotjs)
-![Cordova](https://img.shields.io/badge/-Cordova%20JS-333333?style=flat-square&logo=Cordova)
+![Cordova](https://img.shields.io/badge/-Cordova%20JS-333333?style=flat-square&logo=apache-cordova)
 ![Cuda](https://img.shields.io/badge/-Cuda-333333?style=flat-square&logo=nvidia)
 
 ## Stats
